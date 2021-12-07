@@ -1,0 +1,46 @@
+.bgimage{
+    background-image:url("https://images.unsplash.com/photo-1571091718767-18b5b1457add?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8YnVyZ2VyfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80") ;
+    height:100vh;
+    background-size: cover;
+    background-position: center;
+}
+
+.colors{
+    background-color:rgba(0,0,0,0.65);
+    height:100vh;
+}
+
+.container{
+    float:left;
+    font-size: larger;
+    color:white;
+}
+
+li{
+    list-style-type: none;
+    display:inline;
+    padding-left:35px;
+}
+
+a :hover{
+    color:rgb(255, 230, 0);
+}
+
+a{
+    text-decoration:none;
+}
+
+.group{
+    float: right;   
+}
+
+h1{
+    font-size:50px;
+}
+
+p{
+    font-size: 15px;
+}
+.button :hover{
+    background-color:rgb(54,139,160);
+}
